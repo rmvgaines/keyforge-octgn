@@ -22,5 +22,8 @@ changelog = {
         "Fixed some game errors",
         "Certain table actions will become hidden from the menu when they are not relevant",
         "Special thanks for SeiferTim for code contributions!"
+        ]),
+    1010000: ("1.1.0.0", "10 June 2019", [
+        "Added the Age of Ascension expansion."
         ])
 }
