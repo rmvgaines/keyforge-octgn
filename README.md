@@ -12,5 +12,8 @@ For more information on the status of this project, feel free to send Brine a me
 7. Select "Local (Developers)" from the dropdown feed list.
 8. Click the "Install" button next to the Game Plugin.
 
+# Incomplete Features
+* Decks with AoA Mavericks may not load.
+
 # Copyright
 Please consult the attached NOTICE.md file for details.
